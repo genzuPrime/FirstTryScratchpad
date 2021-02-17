@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 2rem;
+    font-family: serif;
+    text-align: justify;
+}
